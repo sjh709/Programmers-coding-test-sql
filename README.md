@@ -37,3 +37,4 @@
 * 중성화 여부 파악하기: [oracle](/Level-2/8.sql)
 * NULL 처리하기: [oracle](/Level-2/9.sql)
 * 입양 시각 구하기(1): [oracle](/Level-2/10.sql)
+* DATETIME에서 DATE로 형 변환: [oracle](/Level-2/11.sql)
