@@ -39,3 +39,4 @@
 * 입양 시각 구하기(1): [oracle](/Level-2/10.sql)
 * DATETIME에서 DATE로 형 변환: [oracle](/Level-2/11.sql)
 * 가격이 제일 비싼 식품의 정보 출력하기: [oracle](/Level-2/12.sql)
+* 3월에 태어난 여성 회원 목록 출력하기: [oracle](/Level-2/13.sql)
