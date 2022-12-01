@@ -21,3 +21,4 @@
 * 가장 비싼 상품 구하기: [oracle](/Level-1/15.sql)
 * 12세 이하인 여자 환자 목록 출력하기: [oracle](/Level-1/16.sql)
 * 흉부외과 또는 일반외과 의사 목록 출력하기: [oracle](/Level-1/17.sql)
+* 인기있는 아이스크림: [oracle](/Level-1/18.sql)
