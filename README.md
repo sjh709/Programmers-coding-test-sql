@@ -17,3 +17,4 @@
 * 강원도에 위치한 생산공장 목록 출력하기: [oracle](/Level-1/11.sql)
 * 경기도에 위치한 식품창고 목록 출력하기: [oracle](/Level-1/12.sql)
 * 나이 정보가 없는 회원 수 구하기: [oracle](/Level-1/13.sql)
+* 조건에 맞는 회원수 구하기: [oracle](/Level-1/14.sql)
