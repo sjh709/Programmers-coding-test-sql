@@ -22,3 +22,4 @@
 * 12세 이하인 여자 환자 목록 출력하기: [oracle](/Level-1/16.sql)
 * 흉부외과 또는 일반외과 의사 목록 출력하기: [oracle](/Level-1/17.sql)
 * 인기있는 아이스크림: [oracle](/Level-1/18.sql)
+* 과일로 만든 아이스크림 고르기: [oracle](/Level-1/19.sql)
