@@ -7,3 +7,4 @@
 * 모든 레코드 조회하기: [oracle](/Level-1/1.sql)
 * 역순 정렬하기: [oracle](/Level-1/2.sql)
 * 아픈 동물 찾기: [oracle](/Level-1/3.sql)
+* 어린 동물 찾기: [oracle](/Level-1/4.sql)
