@@ -38,3 +38,4 @@
 * NULL 처리하기: [oracle](/Level-2/9.sql)
 * 입양 시각 구하기(1): [oracle](/Level-2/10.sql)
 * DATETIME에서 DATE로 형 변환: [oracle](/Level-2/11.sql)
+* 가격이 제일 비싼 식품의 정보 출력하기: [oracle](/Level-2/12.sql)
