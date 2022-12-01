@@ -32,3 +32,4 @@
 * 동명 동물 수 찾기: [oracle](/Level-2/3.sql)
 * 루시와 엘라 찾기: [oracle](/Level-2/4.sql)
 * 이름에 el이 들어가는 동물 찾기: [oracle](/Level-2/5.sql)
+* 동물 수 구하기: [oracle](/Level-2/6.sql)
