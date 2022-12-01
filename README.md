@@ -15,3 +15,4 @@
 * 이름이 있는 동물의 아이디: [oracle](/Level-1/9.sql)
 * 최댓값 구하기: [oracle](/Level-1/10.sql)
 * 강원도에 위치한 생산공장 목록 출력하기: [oracle](/Level-1/11.sql)
+* 경기도에 위치한 식품창고 목록 출력하기: [oracle](/Level-1/12.sql)
