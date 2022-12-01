@@ -12,3 +12,4 @@
 * 동물의 아이디와 이름: [oracle](/Level-1/6.sql)
 * 여러 기준으로 정렬하기: [oracle](/Level-1/7.sql)
 * 상위 n개 레코드: [oracle](/Level-1/8.sql)
+* 이름이 있는 동물의 아이디: [oracle](/Level-1/9.sql)
