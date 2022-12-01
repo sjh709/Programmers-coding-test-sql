@@ -29,3 +29,4 @@
 
 * 최솟값 구하기: [oracle](/Level-2/1.sql)
 * 고양이와 개는 몇 마리 있을까: [oracle](/Level-2/2.sql)
+* 동명 동물 수 찾기: [oracle](/Level-2/3.sql)
