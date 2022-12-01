@@ -19,3 +19,4 @@
 * 나이 정보가 없는 회원 수 구하기: [oracle](/Level-1/13.sql)
 * 조건에 맞는 회원수 구하기: [oracle](/Level-1/14.sql)
 * 가장 비싼 상품 구하기: [oracle](/Level-1/15.sql)
+* 12세 이하인 여자 환자 목록 출력하기: [oracle](/Level-1/16.sql)
