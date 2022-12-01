@@ -34,3 +34,4 @@
 * 이름에 el이 들어가는 동물 찾기: [oracle](/Level-2/5.sql)
 * 동물 수 구하기: [oracle](/Level-2/6.sql)
 * 중복 제거하기: [oracle](/Level-2/7.sql)
+* 중성화 여부 파악하기: [oracle](/Level-2/8.sql)
