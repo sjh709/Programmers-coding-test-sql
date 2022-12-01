@@ -42,3 +42,4 @@
 * 3월에 태어난 여성 회원 목록 출력하기: [oracle](/Level-2/13.sql)
 * 카테고리 별 상품 개수 구하기: [oracle](/Level-2/14.sql)
 * 가격대 별 상품 개수 구하기: [oracle](/Level-2/15.sql)
+* 상품 별 오프라인 매출 구하기: [oracle](/Level-2/16.sql)
