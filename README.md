@@ -43,3 +43,4 @@
 * 카테고리 별 상품 개수 구하기: [oracle](/Level-2/14.sql)
 * 가격대 별 상품 개수 구하기: [oracle](/Level-2/15.sql)
 * 상품 별 오프라인 매출 구하기: [oracle](/Level-2/16.sql)
+* 재구매가 일어난 상품과 회원 리스트 구하기: [oracle](/Level-2/17.sql)
