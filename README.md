@@ -44,3 +44,4 @@
 * 가격대 별 상품 개수 구하기: [oracle](/Level-2/15.sql)
 * 상품 별 오프라인 매출 구하기: [oracle](/Level-2/16.sql)
 * 재구매가 일어난 상품과 회원 리스트 구하기: [oracle](/Level-2/17.sql)
+* 진료과별 총 예약 횟수 출력하기: [oracle](/Level-2/18.sql)
