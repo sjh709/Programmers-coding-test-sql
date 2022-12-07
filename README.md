@@ -50,4 +50,4 @@
 
 ### 🌱 Level 3 
 
-* 없어진 기록 찾기: [oracle](/Level-2/1.sql)
+* 없어진 기록 찾기: [oracle](/Level-3/1.sql)
