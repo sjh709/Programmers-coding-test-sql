@@ -23,6 +23,7 @@
 * 흉부외과 또는 일반외과 의사 목록 출력하기: [oracle](/Level-1/17.sql)
 * 인기있는 아이스크림: [oracle](/Level-1/18.sql)
 * 과일로 만든 아이스크림 고르기: [oracle](/Level-1/19.sql)
+* 조건에 맞는 도서 리스트 출력하기: [oracle](/Level-1/20.sql)
 
 
 ### 🌱 Level 2 
