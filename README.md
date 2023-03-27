@@ -27,6 +27,7 @@
 * 평균 일일 대여 요금 구하기: [oracle](/Level-1/21.sql)
 * 자동차 대여 기록에서 장기/단기 대여 구분하기: [oracle](/Level-1/22.sql)
 * 특정 옵션이 포함된 자동차 리스트 구하기: [oracle](/Level-1/23.sql)
+* 조건에 부합하는 중고거래 댓글 조회하기: [oracle](/Level-1/24.sql)
 
 
 ### 🌱 Level 2 
