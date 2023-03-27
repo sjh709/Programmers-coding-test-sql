@@ -25,6 +25,7 @@
 * 과일로 만든 아이스크림 고르기: [oracle](/Level-1/19.sql)
 * 조건에 맞는 도서 리스트 출력하기: [oracle](/Level-1/20.sql)
 * 평균 일일 대여 요금 구하기: [oracle](/Level-1/21.sql)
+* 자동차 대여 기록에서 장기/단기 대여 구분하기: [oracle](/Level-1/22.sql)
 
 
 ### 🌱 Level 2 
