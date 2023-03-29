@@ -51,6 +51,7 @@
 * 재구매가 일어난 상품과 회원 리스트 구하기: [oracle](/Level-2/17.sql)
 * 진료과별 총 예약 횟수 출력하기: [oracle](/Level-2/18.sql)
 * 성분으로 구분한 아이스크림 총 주문량: [oracle](/Level-2/19.sql)
+* 조건에 맞는 도서와 저자 리스트 출력하기: [oracle](/Level-2/20.sql)
 
 
 ### 🌱 Level 3 
