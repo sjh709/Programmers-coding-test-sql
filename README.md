@@ -52,6 +52,7 @@
 * 진료과별 총 예약 횟수 출력하기: [oracle](/Level-2/18.sql)
 * 성분으로 구분한 아이스크림 총 주문량: [oracle](/Level-2/19.sql)
 * 조건에 맞는 도서와 저자 리스트 출력하기: [oracle](/Level-2/20.sql)
+* 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기: [oracle](/Level-2/21.sql)
 
 
 ### 🌱 Level 3 
