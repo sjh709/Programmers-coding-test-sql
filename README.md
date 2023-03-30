@@ -54,6 +54,7 @@
 * 조건에 맞는 도서와 저자 리스트 출력하기: [oracle](/Level-2/20.sql)
 * 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기: [oracle](/Level-2/21.sql)
 * 자동차 평균 대여 기간 구하기: [oracle](/Level-2/22.sql)
+* 조건에 부합하는 중고거래 상태 조회하기: [oracle](/Level-2/23.sql)
 
 
 ### 🌱 Level 3 
