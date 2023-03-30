@@ -60,3 +60,4 @@
 ### 🌱 Level 3 
 
 * 없어진 기록 찾기: [oracle](/Level-3/1.sql)
+* 있었는데요 없었습니다: [oracle](/Level-3/2.sql)
