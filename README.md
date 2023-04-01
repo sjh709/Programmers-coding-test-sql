@@ -64,3 +64,4 @@
 * 오랜 기간 보호한 동물(1): [oracle](/Level-3/3.sql)
 * 오랜 기간 보호한 동물(2): [oracle](/Level-3/4.sql)
 * 헤비 유저가 소유한 장소: [oracle](/Level-3/5.sql)
+* 조건별로 분류하여 주문상태 출력하기: [oracle](/Level-3/6.sql)
