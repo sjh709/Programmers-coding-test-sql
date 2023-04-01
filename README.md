@@ -63,3 +63,4 @@
 * 있었는데요 없었습니다: [oracle](/Level-3/2.sql)
 * 오랜 기간 보호한 동물(1): [oracle](/Level-3/3.sql)
 * 오랜 기간 보호한 동물(2): [oracle](/Level-3/4.sql)
+* 헤비 유저가 소유한 장소: [oracle](/Level-3/5.sql)
