@@ -66,3 +66,4 @@
 * 헤비 유저가 소유한 장소: [oracle](/Level-3/5.sql)
 * 조건별로 분류하여 주문상태 출력하기: [oracle](/Level-3/6.sql)
 * 즐겨찾기가 가장 많은 식당 정보 출력하기: [oracle](/Level-3/7.sql)
+* 카테고리 별 도서 판매량 집계하기: [oracle](/Level-3/8.sql)
