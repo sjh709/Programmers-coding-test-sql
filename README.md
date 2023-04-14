@@ -81,3 +81,4 @@
 * 입양 시각 구하기(2): [oracle](/Level-4/2.sql)
 * 우유와 요거트가 담긴 장바구니: [oracle](/Level-4/3.sql)
 * 식품분류별 가장 비싼 식품의 정보 조회하기: [oracle](/Level-4/4.sql)
+* 5월 식품들의 총매출 조회하기: [oracle](/Level-4/5.sql)
