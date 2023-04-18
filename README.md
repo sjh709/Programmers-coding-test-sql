@@ -83,3 +83,4 @@
 * 식품분류별 가장 비싼 식품의 정보 조회하기: [oracle](/Level-4/4.sql)
 * 5월 식품들의 총매출 조회하기: [oracle](/Level-4/5.sql)
 * 서울에 위치한 식당 목록 출력하기: [oracle](/Level-4/6.sql)
+* 그룹별 조건에 맞는 식당 목록 출력하기: [oracle](/Level-4/7.sql)
