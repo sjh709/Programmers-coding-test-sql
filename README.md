@@ -84,3 +84,4 @@
 * 5월 식품들의 총매출 조회하기: [oracle](/Level-4/5.sql)
 * 서울에 위치한 식당 목록 출력하기: [oracle](/Level-4/6.sql)
 * 그룹별 조건에 맞는 식당 목록 출력하기: [oracle](/Level-4/7.sql)
+* 년, 월, 성별 별 상품 구매 회원 수 구하기: [oracle](/Level-4/8.sql)
