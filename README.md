@@ -89,3 +89,4 @@
 * 취소되지 않은 진료 예약 조회하기: [oracle](/Level-4/10.sql)
 * 주문량이 많은 아이스크림들 조회하기: [oracle](/Level-4/11.sql)
 * 저자 별 카테고리 별 매출액 집계하기: [oracle](/Level-4/12.sql)
+* 자동차 대여 기록 별 대여 금액 구하기: [oracle](/Level-4/13.sql)
